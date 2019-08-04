@@ -1,2 +1,3 @@
 test hello
 test merge branch
+test this is merge contents
