@@ -1,3 +1,4 @@
 test hello
 test merge branch
 test this is master contents,test this is merge contents
+version 1
